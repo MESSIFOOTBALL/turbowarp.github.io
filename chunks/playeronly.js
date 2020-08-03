@@ -1,2 +1,2 @@
-var GUI=(window.webpackJsonpGUI=window.webpackJsonpGUI||[]).push([[4],{1483:function(e,n,d){"use strict";d.r(n);d(273);var a=d(51),t=d.n(a),o=d(1),c=d.n(o),s=d(162);const r=document.createElement("div");document.body.appendChild(r),document.body.classList.add("tw-loaded"),t.a.render(c.a.createElement(s.a,{isPlayerOnly:!0}),r)}},[[1483,0]]]);
+var GUI=(window.webpackJsonpGUI=window.webpackJsonpGUI||[]).push([[4],{1484:function(e,n,d){"use strict";d.r(n);d(351);var a=d(51),t=d.n(a),o=d(1),c=d.n(o),s=d(163);const r=document.createElement("div");document.body.appendChild(r),document.body.classList.add("tw-loaded"),t.a.render(c.a.createElement(s.a,{isPlayerOnly:!0}),r)}},[[1484,0]]]);
 //# sourceMappingURL=playeronly.js.map
