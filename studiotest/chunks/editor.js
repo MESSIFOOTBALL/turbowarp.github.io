@@ -1,2 +1,2 @@
-var GUI=(window.webpackJsonpGUI=window.webpackJsonpGUI||[]).push([[1],{849:function(e,n,d){"use strict";d.r(n);d(481);var a=d(51),t=d.n(a),c=d(1),o=d.n(c),s=d(163);const i=document.createElement("div");document.body.appendChild(i),document.body.classList.add("tw-loaded"),t.a.render(o.a.createElement(s.a,{canSeeInside:!0}),i)}},[[849,0]]]);
+var GUI=(window.webpackJsonpGUI=window.webpackJsonpGUI||[]).push([[1],{848:function(e,n,d){"use strict";d.r(n);d(482);var a=d(54),t=d.n(a),c=d(1),o=d.n(c),s=d(258);const i=document.createElement("div");document.body.appendChild(i),document.body.classList.add("tw-loaded"),t.a.render(o.a.createElement(s.a,{canSeeInside:!0}),i)}},[[848,0]]]);
 //# sourceMappingURL=editor.js.map
