@@ -1,2 +1,0 @@
-var GUI=(window.webpackJsonpGUI=window.webpackJsonpGUI||[]).push([[1],{846:function(e,n,d){"use strict";d.r(n);d(480);var a=d(54),t=d.n(a),c=d(1),o=d.n(c),s=d(256);const i=document.createElement("div");document.body.appendChild(i),document.body.classList.add("tw-loaded"),t.a.render(o.a.createElement(s.a,{canSeeInside:!0}),i)}},[[846,0]]]);
-//# sourceMappingURL=editor.js.map
